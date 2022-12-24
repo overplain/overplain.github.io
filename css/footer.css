@@ -35,7 +35,7 @@
      /* 页脚footer */
 #footer {
     /* 与背景渐变效果一致*/
-    background-image: linear-gradient(-225deg, rgb(232, 245, 251), rgb(255, 235, 236) 40%, rgb(233, 210, 255) 80%);
+    background-image: linear-gradient(to top, #dae2f8,#dedcee);
 }
 #footer:before {
     background-color: rgba(0, 0, 0, 0);
@@ -52,7 +52,7 @@
     background: rgba(255,255,255,.4);
 }
 #web_bg {
-    background: linear-gradient(-225deg, rgb(232, 245, 251), rgb(255, 235, 236) 40%, rgb(233, 210, 255) 80%);
+    background: linear-gradient(to top, #dae2f8, #f6bebe);
 }
 
 
